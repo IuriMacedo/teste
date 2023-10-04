@@ -1,0 +1,40 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+h1 {
+    background: #B22222;
+    color: #FFE4C4;
+    font-family: 'Courier New', Courier, monospace;
+font-size: 2em;
+/* font-style: oblique; */
+font-weight: 500;
+letter-spacing: 5px;
+line-height: 30px;
+margin: 35px;
+text-align: justify;
+text-transform: uppercase ;
+text-shadow: 2px 2px 5px ;
+
+}
+
+main {
+    text-indent: 25px;
+    text-align: justify;
+    margin: 45px;
+}
+
+p {
+    background-color: #B22222;
+    color: #FFE4C4;
+}
+footer {
+    color: black;
+}
+
+body {
+    background-color: #FA8072;
+}
